@@ -1,5 +1,5 @@
 
-//Main for linkedlist deletion
+//Main for linkedlist Complete tasks
 public class MainforLink {
     public static void main(String args[]) {
         Linkedlist list=new Linkedlist();
