@@ -1,6 +1,6 @@
 
 //Node2 file for linkedlist.java and MainforLink
-//Deletion in linkedlist
+//Complete working in linkedlist
 class Node2 {
 
     int data;
