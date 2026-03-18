@@ -1,1 +1,3 @@
-
+these three files contains priority queue with array 
+High number has highest priority
+it is in descending order, and we will dequeue from front 
