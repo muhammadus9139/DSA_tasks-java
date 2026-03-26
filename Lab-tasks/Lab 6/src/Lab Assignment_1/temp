@@ -1,1 +1,4 @@
 
+Plane landing case study based on fuel
+its in ascending order and dequeue from front
+in main using random fuel values and dqueue all using while loop till it comes to empty
